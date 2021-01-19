@@ -1,0 +1,22 @@
+{
+  "name": "rendering-school",
+  "version": "1.0.0",
+  "description": "Exploring the magic of rendering technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igin/rendering-school.git"
+  },
+  "author": "Nicholas Pleschko <n.pleschko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igin/rendering-school/issues"
+  },
+  "homepage": "https://github.com/igin/rendering-school#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
